@@ -1,0 +1,26 @@
+{
+    "name": "learning-npm",
+    "version": "1.0.0",
+    "description": "Learning NPM the Node Package Manager",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mariolazzari/learning-npm.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mariolazzari/learning-npm/issues"
+    },
+    "homepage": "https://github.com/mariolazzari/learning-npm#readme",
+    "dependencies": {
+        "underscore": "^1.9.1"
+    },
+    "devDependencies": {
+        "grunt-sass": "^3.0.1",
+        "nodemon": "^1.18.3"
+    }
+}
